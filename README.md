@@ -20,6 +20,25 @@ Frontend: React
 -styled-components
 ```
 
+## Getting Started
+### 1. Clone repository
+```
+https://github.com/massaaki/Discord-Sample-Layout.git Discord-Sample-Layout
+```
+### 2. Go to path
+```
+cd <PATH>/Discord-Sample-Layout
+```
+### 3. Install dependences
+```
+yarn install
+```
+
+### 4. Run the project
+```
+yarn start
+```
+
 
 # Author
 **Maurício Massaaki**
