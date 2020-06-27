@@ -4,7 +4,6 @@
 [Sample Layout](http://discord-sample-layout.netlify.app/).
 
 # DISCORD - Styles&Layout
-Layout do discord estilizado com Grid e Flexbox utilizando React com typescript
 Discord layout using Grid && Flexbox styles with React && Typescript.
 
 
